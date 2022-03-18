@@ -2,6 +2,7 @@
 Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more.
 I also trying to upload new versions of this program every week, to make fewer bugs & etc.
 You can enjoy this by clicking star, watch or make a fork ^_^
+Also, you can enjoy my other bots/programs or etc., they all in my profile on GitHub.
 # Change Log:
 - Version 1.1 [release]
 # How to install:
