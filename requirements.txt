@@ -1,0 +1,2 @@
+windows 7 or higher
+stable internet connection (<30ms)

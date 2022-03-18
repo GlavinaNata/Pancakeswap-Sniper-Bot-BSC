@@ -1,0 +1,14 @@
+{
+    "metamask_address": "",
+    "metamask_private_key": "" ,
+
+    "RPC": "https://bsc-dataseed.binance.org/",
+    "GWEI_GAS": 6,
+    "MaxTXFeeBNB": 0.01,
+
+    "Slippage": 30,
+
+    "MinLiquidityBNB": 0.5,
+    "MaxSellTax": 25,
+    "MaxBuyTax": 15
+}
